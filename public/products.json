@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3b9-a77b362d6ead",
+    "name": "Iphone 036C",
+    "seller": "Apple",
+    "price": 1780,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPBjOCy2Rzc9V1NNzOKHymawU6MXvNKD94JQ&usqp=CAU"
+  },
+  {
+    "id": "13cbc786",
+    "name": "M-tune 13B",
+    "seller": "M-tune company",
+    "price": 196,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyA7D9o0Z2t2paqG6UZhqYlC1Ok4oi2Px1xw&usqp=CAU"
+  },
+  {
+    "id": "300d4f7",
+    "name": "Stelleno 12Y",
+    "seller": "Samphony",
+    "price": 295,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4zWM6ZFV3jYJOtgmmbzfeQsDLJAZBMb8lrg&usqp=CAU"
+  },
+  {
+    "id": "4b22",
+    "name": "Waltone 35C",
+    "seller": "Waltone",
+    "price": 210,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJUQvu85EYGkRQLtg5eJ0coE1XxQzx7BBKQ&usqp=CAU"
+  },
+  {
+    "id": "94be8e",
+    "name": "HTC pro - 38",
+    "seller": "HTC",
+    "price": 287,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLZW9-L-04b_Gn51EfddjgadyzsW-cpX66ZQ&usqp=CAU"
+  },
+  {
+    "id": "3edfb0",
+    "name": "Samphony F6",
+    "seller": "Samphony",
+    "price": 138,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpM0nxWc4GO8h_Jny6a-_QtbQEt1eG4GrD1Q&usqp=CAU"
+  },
+  {
+    "id": "9c0c137d",
+    "name": "Nokia-31V",
+    "seller": "Nokia",
+    "price": 205,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9A2HrNlrFoWvuvyQBJ2H-jisIhRmQsuZJQ&usqp=CAU"
+  },
+  {
+    "id": "c9d1f4ea",
+    "name": "Saomi note-8",
+    "seller": "Saomi",
+    "price": 300,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTprt4a3mJDPGXUnSzFhP1XXs88baujgB2X0A&usqp=CAU"
+  },
+  {
+    "id": "be723f4e",
+    "name": "Nokia 12T",
+    "seller": "Nokia",
+    "price": 145,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlyk7O9-zqGPZEOt0kmVwa7ibrvN300DiiQ&usqp=CAU"
+  },
+  {
+    "id": "b278eb7b",
+    "name": "Redmi note - 5",
+    "seller": "Redmi",
+    "price": 150,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyXlGkNO5R3k3bMj5mD4Whj-HT6PLqUszNUw&usqp=CAU"
+  },
+  {
+    "id": "1f56c2924a",
+    "name": "M-phone pro-25C",
+    "seller": "M-phone",
+    "price": 150,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLWYVOqashF3pv8lXhfb2x97l86lOh8x9bg&usqp=CAU"
+  },
+  {
+    "id": "4ec4d75c",
+    "name": "Cordles phone - 10",
+    "seller": "Ligo.co.ltd",
+    "price": 162,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43FJLtd6D-cxc08NlYl7OBu0UrNg0l4L9nw&usqp=CAU"
+  }
+]
