@@ -13,7 +13,7 @@ const Cart = ({ cart }) => {
     return (
         <div className='fixed-cart'>
             <h3>Show-order</h3>
-            <p>Image : {Image} </p>
+            <img src={Image} alt="" srcset="" />
             <p>Selected Item: {cart.length}</p>
             <p>Total price : $ {total}</p>
             <p>Tax : $ {tax}</p>
