@@ -13,6 +13,7 @@ const Mobile = () => {
             .then(res => res.json())
             .then(data => setProducts(data))
     }, []);
+
     const addClick = (product) => {
         console.log(product);
         const newCart = [...cart, product];
@@ -29,12 +30,8 @@ const Mobile = () => {
             <div className="cart-container">
                 <Cart cart={cart}></Cart>
             </div>
-            {/* <div className='bonas-question'>
-                <h1>1.Question:How react work?</h1>
-                <h2>Ans:React is not a freamwowk .It is just a libray devloped by Facebook to solve some problems that they were facing earlier. It designs simple views for each state in our application, and React will efficiently update and render just the right component when we data changes. The declarative view makes our code more predictable and easier to debug.
-                    A React application is made of multiple components, each responsible for rendering a small, reusable piece of HTML. Components can be nested within other components to allow complex applications to be built out of simple building blocks. A component may also maintain an internal state – for example, a TabList component may store a variable corresponding to the currently open tab.</h2>
-            </div> */}
         </div>
+
     );
 };
 
