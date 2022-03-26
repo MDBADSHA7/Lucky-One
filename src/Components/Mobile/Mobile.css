@@ -1,6 +1,6 @@
 .main-container{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 3fr 2fr;
 }
 .mobile-container{
     display: grid;
@@ -12,4 +12,12 @@
     .mobile-container{
     grid-template-columns:repeat(1,1fr);
     }
+}
+.cart-container{
+    background-color: crimson;
+    margin-left: 5px;
+    color: antiquewhite;
+}
+.cart-container:hover{
+    background-color: coral;
 }
