@@ -7,6 +7,7 @@
     grid-template-columns: repeat(3,1fr);
     gap: 70px;
     margin: 80px 50px;
+    padding-left: 30px;
 }
 @media screen and (max-width:600px) {
     .mobile-container{
@@ -17,6 +18,8 @@
     background-color: crimson;
     margin-left: 5px;
     color: antiquewhite;
+    padding-right: 30px;
+    margin-right: 20px;
 }
 .cart-container:hover{
     background-color: coral;

@@ -1,11 +1,11 @@
 .product{
-    width: 350px;
+    width: 280px;
     height: 417px;
     border: 1px solid red;
     border-radius: 10px;
 }
 .product img {
-    width: 350px;
+    width: 280px;
     height: 250px;
 }
 .mobile-name{
@@ -17,7 +17,7 @@
     margin-top: 5px;
 }
 .mobile-info{
-    margin:0 5px;
+    margin:0 10px;
     margin-top: 5px;
 }
 .mobile-info p{
