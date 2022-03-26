@@ -3,6 +3,7 @@
     height: 417px;
     border: 1px solid red;
     border-radius: 10px;
+    position: relative;
 }
 .product img {
     width: 280px;
@@ -36,7 +37,7 @@
 color: aliceblue;
 }
 .btn-cart:hover{
-    background-color: deeppink;
+    background-color:red;
 }
 .btn-cart .btn-text{
 margin-right: 10px;

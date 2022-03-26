@@ -12,14 +12,17 @@ const Cart = ({ cart }) => {
     const finalTotalPrice = total + tax;
     return (
         <div className='fixed-cart'>
-            <h3>Show-order</h3>
+            <h3>Show here selected mobile:</h3>
             <img src={Image} alt="" srcset="" />
-            <p>Selected Item: {cart.length}</p>
-            <p>Total price : $ {total}</p>
-            <p>Tax : $ {tax}</p>
-            <p>Final price : $ {finalTotalPrice.toFixed(2)}</p>
-
+            <h3>Selected Item: {cart.length}</h3>
+            <h3>Total price : $ {total}</h3>
+            <h3>Tax : $ {tax}</h3>
+            <h3>Final price : $ {finalTotalPrice.toFixed(2)}</h3>
+            <button>Choose one mobile</button><br></br>
+            <button>Choose Again</button>
         </div>
+
+
     );
 };
 
