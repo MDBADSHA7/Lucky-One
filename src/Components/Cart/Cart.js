@@ -19,7 +19,7 @@ const Cart = ({ cart }) => {
             <h3>Tax : $ {tax}</h3>
             <h3>Final price : $ {finalTotalPrice.toFixed(2)}</h3>
             <button>Choose one mobile</button><br></br>
-            <button onClick={handleClick}>Choose Again</button>
+            <button >Choose Again</button>
         </div>
 
 
